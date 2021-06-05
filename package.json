@@ -1,0 +1,7 @@
+{
+  "name": "@zoubingwu/prettier-config",
+  "description": "Prettier config for self usage",
+  "license": "MIT",
+  "main": "index.json",
+  "version": "0.1.0"
+}
