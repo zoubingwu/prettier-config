@@ -3,5 +3,8 @@
   "description": "Prettier config for self usage",
   "license": "MIT",
   "main": "index.json",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
+  }
 }
